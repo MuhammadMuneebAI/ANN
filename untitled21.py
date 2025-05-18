@@ -413,8 +413,6 @@ plt.title("Receiver Operating Characteristic")
 plt.legend(loc="lower right")
 plt.show()
 
-pip install optuna
-
 import optuna
 
 def objective(trial):
